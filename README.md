@@ -1,5 +1,8 @@
 * ik heb mijn eigen lay-out er van gemaakt met andere kleuren en mijn logo voor mijn blog op de achtergrond.*
 huizebruin.nl
+![alt tag](https://github.com/huizebruin/dark-th3me/blob/master/screenshots/domoticz-skin-huizebruin.jpg)
+
+
 
 *This theme is no longer maintained.*
 
