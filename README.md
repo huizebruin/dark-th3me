@@ -2,27 +2,27 @@
 huizebruin.nl
 ![alt tag](https://github.com/huizebruin/dark-th3me/blob/master/screenshots/domoticz-skin-huizebruin.jpg)
 
----veranderd 14-05-2020--
-.DataTables_sort_wrapper {
-  text-transform: none;
-  text-align: left;
-  padding: 0px 0px 0px 8px;
-  font-size: 0.9em;
+---veranderd 14-05-2020--<br>
+.DataTables_sort_wrapper {<br>
+  text-transform: none;<br>
+  text-align: left;<br>
+  padding: 0px 0px 0px 8px;<br>
+  font-size: 0.9em;<br>
+}<br>
+.sorting,<br>
+.sorting_asc,<br>
+.sorting_disabled {<br>
+  background: #444;<br>
+  border-color: #444;<br>
 }
-.sorting,
-.sorting_asc,
-.sorting_disabled {
-  background: #444;
-  border-color: #444;
-}
-/*Devices toolbar*/
-.fg-toolbar,
-.ui-dialog-titlebar {
-  background: rgba(51, 51, 51, 0.7);
-  text-transform: none;
-  font-size: 0.9em;
-  margin-bottom: 15px;
-------------------------------
+/*Devices toolbar*/<br>
+.fg-toolbar,<br>
+.ui-dialog-titlebar {<br>
+  background: rgba(51, 51, 51, 0.7);<br>
+  text-transform: none;<br>
+  font-size: 0.9em;<br>
+  margin-bottom: 15px;<br>
+<br>------------------------------
 
 *This theme is no longer maintained.*
 
