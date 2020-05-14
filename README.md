@@ -1,3 +1,6 @@
+* ik heb mijn eigen lay-out er van gemaakt met andere kleuren en mijn logo voor mijn blog op de achtergrond.*
+huizebruin.nl
+
 *This theme is no longer maintained.*
 
 # dark-th3me
