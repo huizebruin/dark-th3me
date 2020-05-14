@@ -883,8 +883,9 @@ body table#itemtablenostatus tr td:first-child + td + td + td + td + td + td {
 }
 /*Devices table*/
 .DataTables_sort_wrapper {
-  text-transform: uppercase;
-  padding: 0;
+  text-transform: none;
+  text-align: left;
+  padding: 0px 0px 0px 8px;
   font-size: 0.9em;
 }
 .sorting,
@@ -897,7 +898,7 @@ body table#itemtablenostatus tr td:first-child + td + td + td + td + td + td {
 .fg-toolbar,
 .ui-dialog-titlebar {
   background: rgba(51, 51, 51, 0.7);
-  text-transform: uppercase;
+  text-transform: none;
   font-size: 0.9em;
   margin-bottom: 15px;
 }
