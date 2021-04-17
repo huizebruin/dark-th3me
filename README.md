@@ -46,3 +46,9 @@ Red -> not updated for a while<br />
 Yellow -> battery almost empty<br /><br />
 ![alt tag](https://github.com/gerard33/dark-th3me/blob/master/screenshots/buttons.png)
 ![alt tag](https://github.com/gerard33/dark-th3me/blob/master/screenshots/buttons2.png)
+
+
+Liked some of my work? Buy me a coffee (or more likely a beer)
+
+<a href="https://www.buymeacoffee.com/huizebruin" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
